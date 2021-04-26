@@ -1,7 +1,6 @@
 [
     {
- "$schema": "http://json-schema.org/draft-04/schema#",
- 
+ "$schema": "http://json-schema.org/draft-04/schema",
  "version": "1.0.0",
  "meshUUID": "72C6BE40444D2081BEAADDAD4E3CC21C",
  "meshName": "Brian and Mary's House",
